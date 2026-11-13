@@ -2,6 +2,8 @@
 
 A **sanitized, reproducible demonstration** of NPPES-based ABA provider discovery, matching, scoring and cross-run deduplication. **All demo NPI identifiers, names, addresses and CRM records are fictional.**
 
+**Verified GitHub-hosted run:** [Public demo Run #3 — success](https://github.com/abhi-revwise/nppes-aba-revops-public/actions/runs/43390833804) (unit tests passed; synthetic evidence artifact `synthetic-demo-3`).
+
 ## Run the public demo
 
 [GitHub Actions → Public demo](https://github.com/abhi-revwise/nppes-aba-revops-public/actions/workflows/public_demo.yml): choose **Run workflow**, or run locally:

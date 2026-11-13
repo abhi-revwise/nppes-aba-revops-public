@@ -1,0 +1,17 @@
+# Exclude private case-study inputs, CRM exports, registry-level outputs, databases and secrets
+/demo_inputs/
+/analysis_inputs/
+/submission/
+/outputs/
+/.cache/
+/.persist/
+*.sqlite3
+*.sqlite3-*
+.env
+*.zip
+*.xlsx
+*.pptx
+*.log
+__pycache__/
+.pytest_cache/
+.DS_Store
